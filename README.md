@@ -1,0 +1,1 @@
+![녹화_2024_07_03_17_50_45_631.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/cf5adbe4-4243-4b97-9bb3-82d137fe5dc4/3c4d115d-90bf-4bde-a4db-a1af4f514d49/%EB%85%B9%ED%99%94_2024_07_03_17_50_45_631.gif)
