@@ -24,3 +24,4 @@
 ![캡처_2024_07_03_17_47_07_179](https://github.com/cjfghksals/hamster_detector_v3/assets/95117186/6865f3a0-3ad7-4cb1-bdc4-14896b5a69f9)
 ![캡처_2024_07_03_17_47_08_314](https://github.com/cjfghksals/hamster_detector_v3/assets/95117186/5bdfdc35-6829-45ce-aaae-764e9e31eafd)
 ![캡처_2024_07_03_17_47_16_957](https://github.com/cjfghksals/hamster_detector_v3/assets/95117186/9cf8a6d5-3442-40d9-a8c3-872664c10dbd)
+![캡처_2024_07_03_17_43_58_502](https://github.com/cjfghksals/hamster_detector_v3/assets/95117186/97cb430b-0630-4238-b6d7-70bcf7435a6b)
